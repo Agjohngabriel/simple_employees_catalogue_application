@@ -28,8 +28,8 @@ class _StaffScreenState extends State<StaffScreen> {
   void getData()async{
     String data = await rootBundle.loadString('assets/staff.json');
     List<Map<String, dynamic>> jsonResult = json.decode(data).cast<Map<String,dynamic>>();
-    List <StaffData> staffData = getStaffListFromJson(data);
-    print(staffData[0].imageUrl);
+    // List <StaffData> staffData = getStaffListFromJson(data);
+    // print(staffData[0].imageUrl);
     staff = jsonResult;
   }
 
@@ -41,7 +41,7 @@ class _StaffScreenState extends State<StaffScreen> {
       setState(() {
         result = staff
             .where((user) =>
-            user["userName"].
+            user["professionalDetailReadDto"]['areaOfSpecialization'].
             toLowerCase().contains(enteredKeyword.toLowerCase()))
             .toList();
         print(result);
@@ -127,6 +127,7 @@ class _StaffScreenState extends State<StaffScreen> {
                       children: [
                         Text("${staff["userName"]}", style: TextStyle(color: Colors.black, fontSize: 18,), textAlign: TextAlign.start,),
                         Text("${staff["aveRating"]}", style: TextStyle(color: Colors.black, fontSize: 15,), textAlign: TextAlign.start,),
+                        Text("${staff["professionalDetailReadDto"]['areaOfSpecialization']}", style: TextStyle(color: Colors.black, fontSize: 15,), textAlign: TextAlign.start,),
                       ],
                     )
                   ]
@@ -161,6 +162,7 @@ class _StaffScreenState extends State<StaffScreen> {
                                   children: [
                                     Text("${staffs["userName"]}", style: TextStyle(color: Colors.black, fontSize: 18,), textAlign: TextAlign.start,),
                                     Text("${staffs["aveRating"]}", style: TextStyle(color: Colors.black, fontSize: 15,), textAlign: TextAlign.start,),
+                                    Text("${staffs["professionalDetailReadDto"]['areaOfSpecialization']}", style: TextStyle(color: Colors.black, fontSize: 15,), textAlign: TextAlign.start,),
                                   ],
                                 )
                               ]
