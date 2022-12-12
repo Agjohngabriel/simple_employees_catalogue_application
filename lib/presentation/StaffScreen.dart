@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:cached_network_image/cached_network_image.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
+import 'package:simple_employees_catalogue_application/model/staffModel.dart';
 
 class StaffScreen extends StatefulWidget {
   const StaffScreen({Key? key}) : super(key: key);
@@ -27,6 +28,8 @@ class _StaffScreenState extends State<StaffScreen> {
   void getData()async{
     String data = await rootBundle.loadString('assets/staff.json');
     List<Map<String, dynamic>> jsonResult = json.decode(data).cast<Map<String,dynamic>>();
+    List <StaffData> staffData = getStaffListFromJson(data);
+    print(staffData[0].imageUrl);
     staff = jsonResult;
   }
 
