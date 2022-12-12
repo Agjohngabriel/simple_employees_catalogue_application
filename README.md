@@ -1,16 +1,23 @@
-# simple_employees_catalogue_application
+CloudClinic Limited
+12/12/2022
 
-A new Flutter project.
+Hey, welcome to  CloudClinic practical assessment for the Mobile Engineer role. We're excited to have you here!
 
-## Getting Started
+This assessment is designed to give you an idea of the work you'll be facing day-to-day in this role, while also providing you the opportunity to showcase your thought process and skill set. Your solution will never be used for any purposes beyond evaluation.
 
-This project is a starting point for a Flutter application.
+We hope you find this experience challenging but enjoyable.
 
-A few resources to get you started if this is your first Flutter project:
+You will be using GIT to clone the assessment repository and submit your work. Make sure your git client is ready and configured. clone sample project first. After clicking the button below you will find a repository.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Programming task
+Flutter | Simple Employees Catalogue Application with login- Implement search with filters for list with employees.
+Clone the GitHub repository and checkout a new branch. 
+find the vectors and json in the asset folder
+Onboard: using Flutter, showcase your UI skills be implementing  figure 1 above.
+HomePage: draft and come up with a page that has; a search textfield, a filter button and listview.
+Implement a method that will fetch data from a json file in the asset folder “assets/staff.json”.
+Map the result to the listview displaying the “username”,”aveRating”,”areaOfSpecialization”.
+Implement search filter to get staffs by area of Specialization.
+
+Note: you can use the internet for easy access to snippets

@@ -1,0 +1,553 @@
+[
+  {
+    "id": "797c943a-3cce-400e-a8de-6750058a661c",
+    "userId": "e6321d3b-a32f-4718-96fd-c008d4cef8b2",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Kalu Nnamdi",
+    "reviews": 3371,
+    "aveRating": 4.5,
+    "languageReadDto": {
+      "lang1": "Igbo",
+      "lang2": "French",
+      "lang3": "English",
+      "lang4": "Yoruba",
+      "lang5": "Hausa"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 16,
+      "areaOfSpecialization": "Anaesthesiologist"
+    }
+  },
+  {
+    "id": "a643f92e-e7d9-4d61-8888-29b02d83830f",
+    "userId": "35f99231-8d74-4e4d-b18c-c62198ec4758",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Eliane Aufderhar",
+    "reviews": 7930,
+    "aveRating": 4,
+    "languageReadDto": {
+      "lang1": "English",
+      "lang2": "Housa",
+      "lang3": "Igbo",
+      "lang4": "Igbo",
+      "lang5": "English"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 43,
+      "areaOfSpecialization": "Orthopaedic Surgeon st"
+    }
+  },
+  {
+    "id": "9faed01e-11b8-467b-82e0-74dda5b8d27c",
+    "userId": "072aa6a4-fb9e-40f5-bfdb-fac9dbece655",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Miss Reynold Aufderhar",
+    "reviews": 5194,
+    "aveRating": 2,
+    "languageReadDto": {
+      "lang1": "Housa",
+      "lang2": "Housa",
+      "lang3": "English",
+      "lang4": "English",
+      "lang5": "English"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 48,
+      "areaOfSpecialization": "Orthopaedic Surgeon st"
+    }
+  },
+  {
+    "id": "6e03cd37-fe6a-4354-a501-7d282cbad210",
+    "userId": "10ae79c7-edfb-419e-a438-18baa6440d0c",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "William Wilderman",
+    "reviews": 7043,
+    "aveRating": 2,
+    "languageReadDto": {
+      "lang1": "Igbo",
+      "lang2": "Yoruba",
+      "lang3": "Yoruba",
+      "lang4": "Housa",
+      "lang5": "Housa"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 14,
+      "areaOfSpecialization": "General Practitioners Physician"
+    }
+  },
+  {
+    "id": "b96dee6c-348f-46d7-ab70-091c6da3786f",
+    "userId": "51416d44-c11f-4dad-8330-571d3a59f4e3",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Grant Wisoky DDS",
+    "reviews": 5628,
+    "aveRating": 4,
+    "languageReadDto": {
+      "lang1": "Igbo",
+      "lang2": "English",
+      "lang3": "Igbo",
+      "lang4": "Igbo",
+      "lang5": "English"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 47,
+      "areaOfSpecialization": "Obstetricians"
+    }
+  },
+  {
+    "id": "1be33920-7c03-47a6-bc0e-5fc226c1d65e",
+    "userId": "cb0d4e3b-741b-4b97-9523-57364a8fd0cf",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Garland Reichel",
+    "reviews": 2517,
+    "aveRating": 2,
+    "languageReadDto": {
+      "lang1": "English",
+      "lang2": "Yoruba",
+      "lang3": "Yoruba",
+      "lang4": "Yoruba",
+      "lang5": "Yoruba"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 7,
+      "areaOfSpecialization": "Dermatologist"
+    }
+  },
+  {
+    "id": "a8e07097-25a5-4229-9800-db7b6433df18",
+    "userId": "7de88a17-d5ff-4938-8c0f-eb1835251913",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Arvid Walsh",
+    "reviews": 5420,
+    "aveRating": 3,
+    "languageReadDto": {
+      "lang1": "Igbo",
+      "lang2": "Igbo",
+      "lang3": "Igbo",
+      "lang4": "Igbo",
+      "lang5": "Igbo"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 26,
+      "areaOfSpecialization": "Emergency Medicine"
+    }
+  },
+  {
+    "id": "4e0f4fea-cfee-40e4-bcff-c5b172681fe4",
+    "userId": "b10ff522-93d9-4736-8c94-711d01df53ba",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Raegan Moore",
+    "reviews": 14253,
+    "aveRating": 2,
+    "languageReadDto": {
+      "lang1": "Igbo",
+      "lang2": "Housa",
+      "lang3": "English",
+      "lang4": "Igbo",
+      "lang5": "English"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 16,
+      "areaOfSpecialization": "Radiologist"
+    }
+  },
+  {
+    "id": "06b409d1-19d4-4ce2-a182-e98ee03a0bf4",
+    "userId": "53288848-9573-497d-af66-4c4567f1fd17",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Sister Effertz Jr.",
+    "reviews": 13446,
+    "aveRating": 1,
+    "languageReadDto": {
+      "lang1": "Housa",
+      "lang2": "English",
+      "lang3": "Housa",
+      "lang4": "English",
+      "lang5": "Housa"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 29,
+      "areaOfSpecialization": "Haematologists"
+    }
+  },
+  {
+    "id": "e030ae0b-2352-412c-9c63-29f52b306990",
+    "userId": "d37b49ee-1e19-4777-a76a-8b1ad44f1bfe",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Marcelle Gaylord",
+    "reviews": 7703,
+    "aveRating": 3,
+    "languageReadDto": {
+      "lang1": "Igbo",
+      "lang2": "English",
+      "lang3": "Housa",
+      "lang4": "Igbo",
+      "lang5": "Housa"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 41,
+      "areaOfSpecialization": "Ophthalmologists"
+    }
+  },
+  {
+    "id": "5a98f0d8-386b-4da3-af06-3b1c12350bec",
+    "userId": "f1ba65f1-f6bf-4f15-90ae-70e163681ab9",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Anibal Batz DVM",
+    "reviews": 794,
+    "aveRating": 4,
+    "languageReadDto": {
+      "lang1": "English",
+      "lang2": "English",
+      "lang3": "Igbo",
+      "lang4": "English",
+      "lang5": "Housa"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 22,
+      "areaOfSpecialization": "Plastic Surgeon"
+    }
+  },
+  {
+    "id": "26d35dd4-7e60-47cf-88fc-26ee692a76a1",
+    "userId": "b4cbef29-7261-4cbb-9457-65f87e1fbaf9",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Louisa Mueller",
+    "reviews": 11663,
+    "aveRating": 1,
+    "languageReadDto": {
+      "lang1": "English",
+      "lang2": "English",
+      "lang3": "Yoruba",
+      "lang4": "Yoruba",
+      "lang5": "Igbo"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 27,
+      "areaOfSpecialization": "Paediatricians"
+    }
+  },
+  {
+    "id": "73627fd5-6ebc-49ba-9dd5-1c0a3a8b4bd2",
+    "userId": "132c4093-cc63-488a-b29a-af211d87567b",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Jamir Rogahn MD",
+    "reviews": 288,
+    "aveRating": 4,
+    "languageReadDto": {
+      "lang1": "Igbo",
+      "lang2": "Igbo",
+      "lang3": "Igbo",
+      "lang4": "Igbo",
+      "lang5": "Yoruba"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 3,
+      "areaOfSpecialization": "Pharmacist"
+    }
+  },
+  {
+    "id": "e8235ac7-e58c-487e-8f09-c65d606dc843",
+    "userId": "9074dd57-e9df-4f1a-a917-b1633b012b82",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Mario Jacobi",
+    "reviews": 8447,
+    "aveRating": 1,
+    "languageReadDto": {
+      "lang1": "English",
+      "lang2": "Igbo",
+      "lang3": "English",
+      "lang4": "English",
+      "lang5": "English"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 2,
+      "areaOfSpecialization": "ENT Specialist"
+    }
+  },
+  {
+    "id": "56a309d9-bd64-4995-b02c-dd5b3bbec6d2",
+    "userId": "6175d9cc-d4b1-4d67-ac2b-4fb32623cf9a",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Hazle Morissette",
+    "reviews": 8800,
+    "aveRating": 3,
+    "languageReadDto": {
+      "lang1": "Housa",
+      "lang2": "Housa",
+      "lang3": "Housa",
+      "lang4": "Housa",
+      "lang5": "Yoruba"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 6,
+      "areaOfSpecialization": "Paediatric Surgeon"
+    }
+  },
+  {
+    "id": "2e6b9049-463e-439f-8668-0e23ed25c057",
+    "userId": "cf9e0b7c-afd7-4d33-826e-88b944180872",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Devyn Bailey",
+    "reviews": 6808,
+    "aveRating": 3,
+    "languageReadDto": {
+      "lang1": "Housa",
+      "lang2": "English",
+      "lang3": "Yoruba",
+      "lang4": "English",
+      "lang5": "Housa"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 35,
+      "areaOfSpecialization": "Anaesthesiologist"
+    }
+  },
+  {
+    "id": "31acf208-0b7e-492e-84c2-8f98eaee6503",
+    "userId": "59e96564-2773-4e42-bb01-53793c4c5f80",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Juwan Kutch",
+    "reviews": 13323,
+    "aveRating": 4,
+    "languageReadDto": {
+      "lang1": "Igbo",
+      "lang2": "Yoruba",
+      "lang3": "English",
+      "lang4": "English",
+      "lang5": "Igbo"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 40,
+      "areaOfSpecialization": "Oral and Maxillofacial Surgeon"
+    }
+  },
+  {
+    "id": "066b8862-d445-49da-a8ca-e424ae7d7e32",
+    "userId": "2c105ebc-b1b8-4ada-9e52-ab1d06ea672b",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Maddison Armstrong Jr.",
+    "reviews": 14851,
+    "aveRating": 2,
+    "languageReadDto": {
+      "lang1": "Yoruba",
+      "lang2": "Housa",
+      "lang3": "Yoruba",
+      "lang4": "English",
+      "lang5": "Igbo"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 13,
+      "areaOfSpecialization": "Hospice Specialist Geriatrician"
+    }
+  },
+  {
+    "id": "31f1d779-258c-4ae2-8e65-7bbdbc68b365",
+    "userId": "35c32c90-dd11-4230-828d-618358d86749",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Alejandrin Lueilwitz DDS",
+    "reviews": 14430,
+    "aveRating": 3,
+    "languageReadDto": {
+      "lang1": "English",
+      "lang2": "English",
+      "lang3": "English",
+      "lang4": "Housa",
+      "lang5": "Igbo"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 30,
+      "areaOfSpecialization": "Osteopaths"
+    }
+  },
+  {
+    "id": "fd5d6d02-e4fa-4d69-9436-39d63432bd54",
+    "userId": "24fd14e1-650d-4774-854f-ced89612ba12",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Nyasia Koelpin",
+    "reviews": 5247,
+    "aveRating": 3,
+    "languageReadDto": {
+      "lang1": "Housa",
+      "lang2": "English",
+      "lang3": "Igbo",
+      "lang4": "Housa",
+      "lang5": "Yoruba"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 14,
+      "areaOfSpecialization": "Cardiologist"
+    }
+  },
+  {
+    "id": "208e9761-065d-40af-90b0-0816b8c15c87",
+    "userId": "ff0860c6-deb3-46d3-8233-e27ca79e067e",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Keenan Stokes",
+    "reviews": 2155,
+    "aveRating": 1,
+    "languageReadDto": {
+      "lang1": "Igbo",
+      "lang2": "Housa",
+      "lang3": "Igbo",
+      "lang4": "Yoruba",
+      "lang5": "English"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 14,
+      "areaOfSpecialization": "Neurosurgeon"
+    }
+  },
+  {
+    "id": "74c1f0d4-1069-41a5-ba83-6bce1bc009d8",
+    "userId": "3175ee01-e27a-41f4-8a0b-7e71db3e5a65",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Eliza Bauch",
+    "reviews": 8865,
+    "aveRating": 4,
+    "languageReadDto": {
+      "lang1": "Igbo",
+      "lang2": "Igbo",
+      "lang3": "Yoruba",
+      "lang4": "English",
+      "lang5": "Housa"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 47,
+      "areaOfSpecialization": "Podiatrists"
+    }
+  },
+  {
+    "id": "9a4437a7-679a-40cf-9364-2ae4fa3fc1e8",
+    "userId": "fba11acc-713f-4c33-b92b-984087f102fb",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Keenan Roob",
+    "reviews": 4503,
+    "aveRating": 3,
+    "languageReadDto": {
+      "lang1": "Igbo",
+      "lang2": "English",
+      "lang3": "Yoruba",
+      "lang4": "English",
+      "lang5": "Yoruba"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 49,
+      "areaOfSpecialization": "Diagnostic Interventional Radiologist Radiology"
+    }
+  },
+  {
+    "id": "da1896d8-ef82-4bd2-aa98-d9d133073719",
+    "userId": "d923fc65-0d45-4ea3-816e-9cbd6d95d326",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Rozella McGlynn DDS",
+    "reviews": 2868,
+    "aveRating": 4,
+    "languageReadDto": {
+      "lang1": "Housa",
+      "lang2": "Igbo",
+      "lang3": "Housa",
+      "lang4": "English",
+      "lang5": "Igbo"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 22,
+      "areaOfSpecialization": "Cardiologist"
+    }
+  },
+  {
+    "id": "378313b7-7ac2-4a87-95ed-a120bde85ace",
+    "userId": "3a7d42d6-a9d7-406e-aff2-c673098a739d",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Ceasar O'Keefe",
+    "reviews": 13203,
+    "aveRating": 2,
+    "languageReadDto": {
+      "lang1": "Igbo",
+      "lang2": "Housa",
+      "lang3": "English",
+      "lang4": "Housa",
+      "lang5": "English"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 23,
+      "areaOfSpecialization": "Paediatric Surgeon"
+    }
+  },
+  {
+    "id": "2dc0ccdc-2f4d-48a0-9c6f-3f80dde8db6e",
+    "userId": "0eddc068-9047-45be-bdb9-2ffccfe8430f",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Fanny Goldner",
+    "reviews": 12669,
+    "aveRating": 3,
+    "languageReadDto": {
+      "lang1": "Housa",
+      "lang2": "Housa",
+      "lang3": "Housa",
+      "lang4": "Igbo",
+      "lang5": "Housa"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 7,
+      "areaOfSpecialization": "ENT Specialist"
+    }
+  },
+  {
+    "id": "66078a7c-e4c0-41c1-ab26-2af2d26b07ce",
+    "userId": "4297ec43-03cb-4447-9e1e-01be6c8fd3f5",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Brandyn Schulist",
+    "reviews": 11061,
+    "aveRating": 3,
+    "languageReadDto": {
+      "lang1": "Igbo",
+      "lang2": "English",
+      "lang3": "Yoruba",
+      "lang4": "Housa",
+      "lang5": "Yoruba"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 19,
+      "areaOfSpecialization": "Gastroenterologist"
+    }
+  },
+  {
+    "id": "be6e45b7-bc3a-4394-ad3a-666f9c2040d1",
+    "userId": "89ccaf2a-6e4b-43f4-bd18-5da43dc73be8",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Hipolito Roberts",
+    "reviews": 2315,
+    "aveRating": 1,
+    "languageReadDto": {
+      "lang1": "Yoruba",
+      "lang2": "Housa",
+      "lang3": "Igbo",
+      "lang4": "Housa",
+      "lang5": "Igbo"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 36,
+      "areaOfSpecialization": "General Surgeons"
+    }
+  },
+  {
+    "id": "98e2182f-5a6e-40f1-a7ba-aad1b924090a",
+    "userId": "a94a3043-a7d9-4dc9-bb17-b24acbaaddab",
+    "imageUrl": "https://res.cloudinary.com/demo/image/upload/d_avatar.png/non_existing_id.png",
+    "userName": "Monroe O'Connell",
+    "reviews": 14124,
+    "aveRating": 4,
+    "languageReadDto": {
+      "lang1": "Igbo",
+      "lang2": "Igbo",
+      "lang3": "Igbo",
+      "lang4": "English",
+      "lang5": "Yoruba"
+    },
+    "professionalDetailReadDto": {
+      "yearsOfMedicalExperience": 28,
+      "areaOfSpecialization": "Radiologist"
+    }
+  }
+]
